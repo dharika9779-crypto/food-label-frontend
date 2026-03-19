@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { motion, AnimatePresence } from 'motion/react';
+import { motion, AnimatePresence } from 'framer-motion';
 import { RefreshCw, Loader2 } from 'lucide-react';
 import { ImageUploader } from './components/ImageUploader';
 import { HealthProfile } from './components/HealthProfile';
